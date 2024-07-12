@@ -1,9 +1,9 @@
 # memebox generating
 
-PAGELANG?=en
+PAGELANG?=zh
 
-TITLE?=MemeBox
-DESC?=Joy for Everyone
+TITLE?=ICQQ Memes
+DESC?=ICQQ群日常
 TDESC?=> _Text memes description._
 FOOTER?=** Footer **
 
